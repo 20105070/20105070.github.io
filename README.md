@@ -13,7 +13,7 @@
     <!--Navigation Bar-->
     <div class="flex">
         <div class="navOff">
-            <a href="country.html">Country</a>
+            <a href="index.html">Country</a>
         </div>
         <div class="navOn">
             <a href="city.html">City</a>
@@ -48,7 +48,7 @@
 
 </html>
 
-### <!--country.html - Daniel Syrén (20105070)-->
+### <!--index.html - Daniel Syrén (20105070)-->
 <html>
 
 <head>
@@ -63,7 +63,7 @@
     <!--Navigation Bar-->
     <div class="flex">
         <div class="navOn">
-            <a href="country.html">Country</a>
+            <a href="index.html">Country</a>
         </div>
         <div class="navOff">
             <a href="city.html">City</a>
@@ -209,7 +209,7 @@ function searchO() {
 /*#c Styling*/
 #c {
     /*https://www.pexels.com/photo/black-textile-41949/*/
-    background-image: url('../images/c.jpg');
+    background-image: url('images/c.jpg');
     background-size: cover;
     color: #6f2da8;
     font-family: 'Courier New', Courier, monospace;
