@@ -210,7 +210,7 @@ function searchO() {
 #c {
     /*https://www.pexels.com/photo/black-textile-41949/*/
     background-image: url('c.jpg');
-    background-size: cover;
+    background-size: 100%;
     color: #6f2da8;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1em;
